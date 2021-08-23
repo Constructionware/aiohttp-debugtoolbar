@@ -40,7 +40,7 @@ a.active {
 
 #pDebug #pDebugToolbarHandle {
     position:fixed;
-    border:1px solid #e28d29;
+    border:1px solid #b505cc;
     top: 25%;
     right:0;
     z-index:100000000;
@@ -66,7 +66,7 @@ a.active {
     text-decoration:none;
     text-align:center;
     text-indent:-999999px;
-    background-color:#e28d29;
+    background-color:#b505cc;
     background-size:40px 40px;
     background-image:url(../img/aiohttp.svg);
     background-position: left center;
@@ -76,7 +76,7 @@ a.active {
 }
 
 #pDebug a#pShowToolBarButton:hover {
-    background-color:#e28d29;
+    background-color:#b505cc;
     padding-right:2px;
     border-top-color:#fff;
     border-left-color:#fff;

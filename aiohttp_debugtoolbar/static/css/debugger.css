@@ -14,7 +14,7 @@ div.footer   { font-size: 13px; text-align: right; margin: 30px 0;
                color: #999999; }
 
 h2           { margin: 1.3em 0 0.0 0; padding: 9px;
-               background: #e28d29; color: #000000; }
+               background: #b505cc; color: #000000; }
 h2.traceback, h3.traceback {
     color: #ffffff;
     border-top-right-radius: 4px;
@@ -71,7 +71,7 @@ pre.console div.box { margin: 5px; white-space: normal;
                       font-family: sans-serif;  }
 pre.console div.box h3,
 pre.console div.traceback h3 { margin: -5px -5px 5px -5px; padding: 5px;
-                               background: #e28d29; color: #ffffff; }
+                               background: #b505cc; color: #ffffff; }
 
 pre.console div.traceback pre:hover { cursor: default; background: #eeeeee; }
 pre.console div.traceback pre.syntaxerror { background: #eeeeee; border: none;
@@ -94,7 +94,7 @@ div.box table.source { border-collapse: collapse; width: 100%; background: #f5f5
 div.box table.source td { border-top: 1px solid #dddddd; padding: 4px 0 4px 10px; }
 div.box table.source td.lineno { color: #999; padding-right: 10px; width: 1px; }
 div.box table.source tr.in-frame { background-color: white; }
-div.box table.source tr.current { background-color: #dddddd; color: #e5762b; }
+div.box table.source tr.current { background-color: #dddddd; color: #b505cc; }
 div.sourceview { overflow: auto; border: 1px solid #ccc; }
 
 div.traceback .btn { margin: 1px 4px 1px 0; }
